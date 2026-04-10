@@ -1,4 +1,4 @@
-package com.ss5.config;
+package com.restaurant.ss5.config;
 
 import org.jspecify.annotations.Nullable;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
